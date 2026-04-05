@@ -1,0 +1,5 @@
+name: LegalTechOracle
+description: Legal tech & contract analysis — 10 tools
+endpoint: https://tooloracle.io/legaltech/mcp/
+transport: streamable-http
+license: MIT
